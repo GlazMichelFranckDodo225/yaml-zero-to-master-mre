@@ -1,0 +1,7 @@
+isSingleLine: true
+# Yaml Stands for "Yaml Ain't Markup Language"
+isMultipleLines: true # Yaml offers
+# More Features
+# than Json
+supportingComments: # I am an Another Comment
+  "This Has More Comments" 
