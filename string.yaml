@@ -1,0 +1,14 @@
+organization: BNPParibas
+about: | # Yaml Parser will Keep the New Lines (+-)
+  BNP Paribas
+  is an
+  Bank Based
+  Application.
+  
+history: > # Yaml Parser will Ignore the New Lines (+-)
+  BNP Paribas
+  Established
+  in 1822.
+  
+products: "[Accounts] & {Cards} - <Loans>" # For Special Characters ==> Double Quotes
+hasMobileApp: "Yes" # W/o Quotes will Result as true
